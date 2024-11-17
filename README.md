@@ -1,22 +1,15 @@
-- 👋 Hi, I’m @Estoda
-- 👀 I’m interested in Web Development & Cyber Security
-- 🌱 I’m currently learning Computer Science 💻
-- 💞️ I’m looking to collaborate on Software Engineering Learning
-- 📫 How to reach me programmer82253@gmail.com 📨
-- 😄 Pronouns: He / His 😑
-- ⚡ Fun fact: I love my career 🥰
 
-[![committers.top badge](https://user-badge.committers.top/egypt/Estoda.svg)](https://user-badge.committers.top/egypt/Estoda)
+
   <br><br>
 **You are the visitor number:**
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:devbn3li"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Estoda"></a>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
 </p>
 
-<h1 align="center">Hi, I'm Mohamed Ali</h1>
-<h3 align="center">Frontend Engineer from Egypt</h3>
+<h1 align="center">Hi, I'm Ahmed Amin</h1>
+<h3 align="center">Backend Engineer and CS Student from Egypt</h3>
 <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=150px align="right"/>
   
 <p>🟡Frontend Engineer at Dragons Bootcamp</p>
