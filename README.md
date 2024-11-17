@@ -21,7 +21,7 @@
 <h3>My Tools:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-amin-b9393a26a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,powershell,bash,git,github,md,html,css,docker,postman,py,flask,c,vim,vscode,pycharm,discord,stackoverflow,figma,gmail" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,powershell,bash,git,github,md,html,css,docker,postman,py,flask,c,vim,vscode,pycharm,discord,stackoverflow,figma,gmail,cpp,django,java,mongodb,mysql,sql" />
   </a>
 </p>
   
