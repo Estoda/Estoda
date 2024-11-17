@@ -10,15 +10,11 @@
 
 <h1 align="center">Hi, I'm Ahmed Amin</h1>
 <h3 align="center">Backend Engineer and CS Student from Egypt</h3>
-  
-<p>🟡Frontend Engineer at Dragons Bootcamp</p>
-<p>🟡Beta Microsoft Learn Student Ambassador</p>
-<p>🟡ALX Fellowship Ambassador</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devbn3lii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbn3li" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/devbn3li/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devbn3li" height="30" width="40" /></a>
+<a href="https://x.com/AhmedAmin82253" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Ahmed Amin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-amin-b9393a26a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devbn3li" height="30" width="40" /></a>
 </p>
 
 <h3>My Tools:</h3>
