@@ -25,4 +25,4 @@
   </a>
 </p>
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=devbn3li&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Estoda&bg_color=1e1e1e,3d3d5c,5a2a68&title_color=fff&text_color=fff)
